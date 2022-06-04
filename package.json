@@ -7,6 +7,7 @@
   "repository": "github:daaku/lit-fa",
   "prettier": "prettier-config-daaku",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "format": "prettier -w .",
     "lint": "quick-lint-js $(git ls-files '*.js')",
