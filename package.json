@@ -1,5 +1,6 @@
 {
   "name": "@daaku/lit-fa",
+  "author": "Naitik Shah <n@daaku.org>",
   "version": "0.2.0",
   "description": "lit-html based component for fontawesome",
   "license": "MIT",
