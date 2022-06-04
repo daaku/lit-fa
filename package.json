@@ -1,0 +1,27 @@
+{
+  "name": "@daaku/lit-fa",
+  "version": "0.1.0",
+  "description": "lit-html based component for fontawesome",
+  "license": "MIT",
+  "repository": "github:daaku/lit-fa",
+  "prettier": "prettier-config-daaku",
+  "type": "module",
+  "scripts": {
+    "format": "prettier -w .",
+    "lint": "quick-lint-js $(git ls-files '*.js')",
+    "test": "jasmine",
+    "cover": "c8 jasmine"
+  },
+  "dependencies": {
+    "lit-html": "^2.2.5"
+  },
+  "devDependencies": {
+    "@lit-labs/ssr": "^2.2.0",
+    "c8": "^7.11.3",
+    "esbuild": "^0.14.42",
+    "jasmine": "^4.1.0",
+    "prettier": "^2.6.2",
+    "prettier-config-daaku": "^1.0.0",
+    "quick-lint-js": "^2.5.0"
+  }
+}
