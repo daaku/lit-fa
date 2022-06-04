@@ -1,6 +1,6 @@
 {
   "name": "@daaku/lit-fa",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "lit-html based component for fontawesome",
   "license": "MIT",
   "repository": "github:daaku/lit-fa",
