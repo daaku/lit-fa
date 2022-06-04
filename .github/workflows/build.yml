@@ -19,4 +19,3 @@ jobs:
       - name: Ensure Clean Tree
         run: git diff --quiet --exit-code
       - run: npm run cover
-      - name: Deploy
