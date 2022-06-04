@@ -1,6 +1,6 @@
 import { render } from '@lit-labs/ssr/lib/render-with-global-dom-shim.js';
 import { Readable } from 'stream';
-import { fa } from '../src/fa.js';
+import { fa } from '../index.js';
 
 const iconA = {
   prefix: 'fas',
