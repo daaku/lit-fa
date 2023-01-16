@@ -20,7 +20,7 @@
   "devDependencies": {
     "@lit-labs/ssr": "^3.0.0",
     "c8": "^7.11.3",
-    "esbuild": "^0.16.3",
+    "esbuild": "^0.17.0",
     "jasmine": "^4.1.0",
     "prettier": "^2.6.2",
     "prettier-config-daaku": "^1.0.0",
