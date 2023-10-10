@@ -15,7 +15,7 @@
     "cover": "c8 jasmine"
   },
   "dependencies": {
-    "lit-html": "^2.2.5"
+    "lit-html": "^3.0.0"
   },
   "devDependencies": {
     "@lit-labs/ssr": "^3.0.0",
