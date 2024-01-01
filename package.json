@@ -24,6 +24,6 @@
     "jasmine": "^5.0.0",
     "prettier": "^3.0.0",
     "prettier-config-daaku": "^1.0.0",
-    "quick-lint-js": "^2.5.0"
+    "quick-lint-js": "^3.0.0"
   }
 }
