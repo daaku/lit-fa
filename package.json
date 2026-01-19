@@ -21,7 +21,7 @@
     "@lit-labs/ssr": "^4.0.0",
     "c8": "^10.0.0",
     "esbuild": "^0.27.0",
-    "jasmine": "^5.0.0",
+    "jasmine": "^6.0.0",
     "prettier": "^3.0.0",
     "prettier-config-daaku": "^1.0.0",
     "quick-lint-js": "^3.0.0"
